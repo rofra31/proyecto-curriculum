@@ -3,9 +3,15 @@
 
 body{
     font-family: "Krona One", sans-serif;
-    background-image:url(/proyecto/images/070B0AF3-A3B7-4401-BBFB-D776AC5921F8.jpg);
+    background-color: white;
     background-position: 50%;
     color: black;
+}
+
+.dark-mode{
+    background-color: black;
+    color: white;
+
 }
 
 .header {
@@ -49,10 +55,10 @@ body{
 
 
 .boton_enlace {
-    width: 50%;
+    width: 10%;
     text-align: center;
-    padding: 21.5px 0;
-    border-radius: 8px;
+    
+
     color: black;
     text-decoration: none;
 }
